@@ -5,11 +5,24 @@
 
 ## Part 1 - StringServer
 
-![lab3-1](https://user-images.githubusercontent.com/122568617/215349384-273c496f-f8a1-4b9b-b882-8fb895b2a5f5.JPG)
+Here is the code for the web server:
 
-Above is the code for the web server StringServer. The code only calls one method, 
-where it checks for the correct path and then splits the query into 2 parts stored into a String array, 
-with the second element containing the string to concatenate to the web server.
+![lab3-1](https://user-images.githubusercontent.com/122568617/215354294-e0420bf2-71bf-484e-84b8-4c421ae066fb.JPG)
+
+And here is the code in use, where the string "Hello" is displayed on the web server:
+
+![5423534543](https://user-images.githubusercontent.com/122568617/215354723-c8a99ff4-3c1e-4c7e-819a-6f43fc3ce533.jpg)
+
+Here, the only relevant method call is to handleRequest(URI url), whose argument contains the URI value for the url to the web server.
+If given an appropriate class path within the url, then the code concatenates the string contained in the query (which is the second element of the parameters[] array), stores it into the allStr String variable, and displays it on the web server (which in this case, is the string "Hello"). Otherwise, it gives a "404 Not Found!" error message.
+
+The second screenshot concatenates a second string:
+(Note: the image displays several '%' characters within the URL, however, the query string was typed as 'How are you')
+
+![4356334](https://user-images.githubusercontent.com/122568617/215354725-512c7b52-8f59-4d28-9cd2-756ac32a610a.jpg)
+
+Like the first one, this request only calls the method handleRequest(URI url), with the same argument containing the web server's url.
+Here, the string is "How are you", which is concatenated to the string from the first screenshot in the variable allStr.
 
 ## Part 2 - Analyzing a Bug
 For the method reversed() in the provided code for this lab, I encountered a bug that caused the a failure during JUnit testing.
