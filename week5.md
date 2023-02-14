@@ -9,11 +9,11 @@ The `grep -i "[string]" [file]` command highlights all case insensitive matches 
 
 > **Example 1 `grep -i "itALy" WhereToItaly.txt`**
 
-![Case Insensitive Search #1](https://user-images.githubusercontent.com/122568617/218639445-0351f08e-0cf2-4c16-a591-53d2a538f9da.JPG)
+![#11](https://user-images.githubusercontent.com/122568617/218643384-ff20f7f4-ff44-4208-8a5e-2c49263bb208.JPG)
 
 > **Example 2 `grep -i "WITH" Portugal-WhatToDo.txt`**
 
-![Case Insensitive Search #2](https://user-images.githubusercontent.com/122568617/218639435-195066f7-d692-45cd-adcf-8e94e2b27f55.JPG)
+![#22](https://user-images.githubusercontent.com/122568617/218643407-2b5b810e-f96c-475d-bb4f-18abfc31dbd2.JPG)
 
 
 ---
@@ -24,12 +24,11 @@ The `grep -n "[string]" [file]` command displays the line number and full line o
 
 > **Example 1 `grep -n "city" HandRMadrid.txt`**
 
-![Line Number Word Search #1](https://user-images.githubusercontent.com/122568617/218641249-39763799-fc04-4081-a33b-f6fdc06324cf.JPG)
-
+![#33](https://user-images.githubusercontent.com/122568617/218643665-38fe0978-1441-4406-800d-00f6e84b51fe.JPG)
 
 > **Example 2 `grep -n "Portugal" IntroMadeira.txt`**
 
-![Line Number Word Search #2](https://user-images.githubusercontent.com/122568617/218641264-df157554-7753-4c43-9988-afed914f5012.JPG)
+![#44](https://user-images.githubusercontent.com/122568617/218643671-e5316a7d-52dc-4ce4-b44b-6598213e3984.JPG)
 
 ---
 
