@@ -17,7 +17,7 @@ The `grep -i "[string]" [file]` command highlights all case insensitive matches 
 
 This command could be useful when searching for a file by keywords, but unsure of the file creator's preference for naming and formatting files (i.e. use of capitalization, special characters, abbreviations, etc).
 
-*Source:*  https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+*Source:*  [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
 ---
 
@@ -35,7 +35,7 @@ The `grep -n "[string]" [file]` command displays the line number and full line o
 
 This command is helpful when you know what keyword you want to find, but want the location of the word rather than just the name of the file it is contained in. The context surrounding that word may be important, and to sift through hundreds or even thousands of lines in the file is an inefficient use of time.
 
-*Source:*  https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+*Source:*  [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
 ---
 
@@ -55,7 +55,7 @@ The `grep -C[# of lines] [string] [file]` command is a mix of the previous two c
 
 This command is more specific than simply finding the entire line containing a keyword, but can be useful if a specific number of lines before or after the keyword is needed (i.e. for additional context and not just the targeted line).
 
-*Source:*  https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+*Source:*  [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
 ---
 
@@ -73,4 +73,4 @@ The `grep -v "[string]" [file]` command displays all lines that do not contain a
 
 This file can prove to be very helpful when seeking a file that does not contain a specific pattern, rather than searching for one that does. It is not always the case that you know exactly what you are looking for, and sometimes the case that you know what you are not looking for.
 
-*Source:*  https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+*Source:*  [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
