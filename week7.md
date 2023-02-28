@@ -67,6 +67,7 @@ All that's left is to commit and push the changes to Github!
 
 
 ---
+## Results
 
 Here's what the updated code looks like on Github:
 
