@@ -1,2 +1,3 @@
 fix code: change index1 += 1; to index2 += 1;
 step to fix code: up arrow twice to compile, up arrow twice to run tests
+git add List<tab>.j<tab>
