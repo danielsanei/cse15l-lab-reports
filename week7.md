@@ -1,7 +1,7 @@
 # Week 7 Lab Report - CSE Labs Done Quick
 **Daniel Sanei**
 
-*This report describes the steps taken to fix an error within remotely-stored code.*
+*This report describes the steps taken to fix an error within code on a remote server.*
 
 ---
 ## 1) Log In
