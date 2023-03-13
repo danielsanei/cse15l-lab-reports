@@ -15,7 +15,7 @@ The lab activities this quarter were overall enjoyable, but my favorite had to b
 5) Run the tests again to demonstrate the newly corrected code passing the tests
 6) Commit and push the changes to Github
 
-The main learning objective of this lab was to increase efficiency of typing commands using various shortcuts 
+The main learning objective of this lab was to increase the efficiency of typing commands using various shortcuts 
 (i.e. using the `tab` key to finish typing a file name, pressing the `up arrow` to re-use a line of code previously entered).
 While knowing subtle tricks is useful to save time in the long run, this lab provided me with a vision for how using 
 command line language can be incredibly useful; when working on remote files located on remote servers.
@@ -30,13 +30,13 @@ so that all members can easily access files and make edits to code, to accessing
 but isn't stored on your local device.
 
 This lab helped me see what a typical remote project could look like: log in to the remote server, run the tests and
-make edits to your code as needed (using NANO, the text editor for linux command line), and commit/push those updates to Github.
+make edits to your code as needed (and if applicable, using NANO, the text editor for linux command line), and commit/push those updates to Github.
 
 This brings a sense of utility and purpose to the activities performed and learned in this class, providing a vision for 
 the situations in which using command line language can be applicable.
 
 ---
-Here's a link to my Week 7 Lab Report if you are interested in the full thing:
+Here's a link to my Week 7 Lab Report if you are interested in all the details:
 
 [CSE Labs Done Quick](https://ds905.github.io/cse15l-lab-reports/week7)
 
