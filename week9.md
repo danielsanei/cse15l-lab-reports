@@ -9,10 +9,15 @@
 The lab activities this quarter were overall enjoyable, but my favorite had to be from week 7. In this lab, we completed the following steps:
 
 1. Log in to the remote ieng6 server (after setting up your account to generate SSH keys)
+
 2. Clone a fork of the given lab 7 repository
+
 3. Run the tests from the `.java` files from the above repository
+
 4. Edit the code to resolve any failed tests
+
 5. Run the tests again to demonstrate the newly corrected code passing the tests
+
 6. Commit and push the changes to Github
 
 The main learning objective of this lab was to increase the efficiency of typing commands using various shortcuts 
